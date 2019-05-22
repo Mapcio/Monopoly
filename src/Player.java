@@ -46,6 +46,7 @@ public class Player {
         //test czy przechodzi przez start
         if (this.position + Throw >= 40){
             this.cash += 200;
+            Game.printText("You collected 200$ salary as you pass go.");
         }
         this.position = (this.position + Throw)%40;
     }

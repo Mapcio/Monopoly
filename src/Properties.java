@@ -109,7 +109,7 @@ public class Properties {
             "Mediterranean Avenue",
             "Community Chest",
             "Baltic Avenue",
-            "Income Tax",
+            "Income Tax. You pay 200$",
             "Reading Railroad",
             "Oriental Avenue",
             "Chance",
@@ -143,7 +143,7 @@ public class Properties {
             "Short Line Railroad",
             "Chance",
             "Park Place",
-            "Luxury Tax",
+            "Luxury Tax. You pay 100$",
             "Boardwalk"
     };
 
